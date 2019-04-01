@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "macaroni",
+      "script": "server.js",
+      "cwd": "/home/macaroni/macaroni-studio/",
+      "watch": "true",
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 3000
+      }
+    }
+  ]
+}
