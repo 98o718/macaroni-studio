@@ -1,6 +1,6 @@
 # 🍝 👨‍💻 🌐
 
-## How to use 🤔
+## How to use
 
 Clone the repo and install:
 
